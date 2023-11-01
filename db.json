@@ -1,0 +1,89 @@
+{
+  "Localidades": [
+    {
+      "direccion": "adsadsada",
+      "id": 2
+    },
+    {
+      "direccion": "rarqweq",
+      "id": 3
+    }
+  ],
+  "Pagos": [
+    {
+      "direccion": "adsadsada",
+      "id": 2
+    },
+    {
+      "direccion": "dola",
+      "id": 3
+    },
+    {
+      "direccion": "dasd",
+      "id": 4
+    }
+  ],
+  "Canal": [
+    {
+      "direccion": "io",
+      "id": 2
+    },
+    {
+      "direccion": "asd",
+      "id": 3
+    }
+  ],
+  "Clientes": [
+    {
+      "localidadesId": "3",
+      "canalId": "3",
+      "pagosId": "3",
+      "dni": "12123123",
+      "telefono": "3816796196",
+      "nombre": "juan",
+      "id": 1
+    },
+    {
+      "fecha": "",
+      "total": "5000000",
+      "observaciones": "aasddsa",
+      "producto": "microondas",
+      "clienteId": "2",
+      "rubroId": "1",
+      "objecionesId": "2",
+      "id": 2
+    }
+  ],
+  "objeciones": [
+    {
+      "direccion": "io",
+      "id": 2
+    },
+    {
+      "direccion": "asd",
+      "id": 3
+    },
+    {
+      "direccion": "no le gusto",
+      "id": 4
+    }
+  ],
+  "rubro": [
+    {
+      "direccion": "gastronomia",
+      "id": 1
+    }
+  ],
+  "consulta": [
+    {
+      "fecha": "2023-10-31",
+      "total": "3000",
+      "observaciones": "no sep",
+      "producto": "horno",
+      "clienteId": "1",
+      "rubroId": "1",
+      "objecionesId": "4",
+      "id": 1
+    }
+  ]
+}
